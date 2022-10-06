@@ -1,0 +1,6 @@
+this is branch 4.
+Adding tasks for devops : 
+
+1. implement deocker
+2. pipelines
+3. Azure devops
