@@ -1,0 +1,4 @@
+task list 
+1. create docker
+2. Merge files
+3. Use ansible 
